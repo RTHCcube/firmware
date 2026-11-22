@@ -1,3 +1,14 @@
+# !! WORK IN PROGRESS !!
+PicoBoot is in the process of being modified for the RTHCcube project. These modifications should:
+- Allow for the use of custom IPL.bin files
+- Automatically manage power to the GameCube motherboard
+- Provide status updates via an RGB LED
+
+PLEASE NOTE: Any tests will assume the specifications outlined in the main project.
+
+You can find the original PicoBoot description below.
+
+===
 <img src="/assets/PicoBoot.png" alt="PicoBoot" align="left"/>
 
 
